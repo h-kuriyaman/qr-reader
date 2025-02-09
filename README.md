@@ -1,1 +1,1 @@
-# qrapp2
+# qr-reader
